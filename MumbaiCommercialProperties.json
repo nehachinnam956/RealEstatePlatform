@@ -1,0 +1,656 @@
+[{
+  "searchUrl": "https://housing.com/commercial/buy/commercial-property-for-sale-in-mumbai-Pskwz0ocdh7q42r5",
+  "propertyId": "100012467",
+  "title": "Shop",
+  "propertyType": "Shop",
+  "propertyUrl": "https://housing.com/commercial/buy/resale/100012467-shop-for-sale-in-dahisar-east-mumbai-for-rs-7500000",
+  "configurations": "275 square_feet builtup area",
+  "price": {
+    "range": "₹75.0 L",
+    "minValue": 7500000
+  },
+  "location": {
+    "city": "Mumbai",
+    "locality": "Dahisar East",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": "19.251509",
+      "longitude": "72.868052"
+    }
+  },
+  "area": {
+    "minArea": null,
+    "maxArea": null,
+    "areaUnit": null
+  },
+  "possession": {
+    "status": "Ready to move"
+  },
+  "developer": {},
+  "amenities": [
+    null
+  ],
+  "images": [
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/127449df2c65f581b73bf6e5b282a9c9/v0/version.jpg",
+      "caption": "PropertyImage"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/50b7f95d76c2ea7424e672da20f4bd06/v0/version.jpg",
+      "caption": "PropertyImage"
+    }
+  ],
+  "sellers": [
+    {
+      "name": "Pradeep Yadav",
+      "type": "Seller",
+      "phone": "******7760"
+    }
+  ],
+  "lastUpdated": "2022-01-29T01:43:35.753Z",
+  "description": "This modern Shop designed with luxury facilities in the heart of Mumbai at Dahisar East is an ideal investment option. It has a carpet area of 400.0 square feet. Built as per high-quality construction standards, the property provides facilities such as Power Backup and Water Storage. It offers safety features such as CCTV Surveillance. The features also include ceiling height of 6.0 feet and entrance width of 7.0 feet. There is provision for a Cafeteria/Food court within the Shop. Parking space has been provided including 1 public parking. The premium commercial space is located near entrance. The property is suitable for footwear for and available for a price of 75.0 L. The age of the property is 15 years. Contact us for more information."
+},
+{
+  "searchUrl": "https://housing.com/commercial/buy/commercial-property-for-sale-in-mumbai-Pskwz0ocdh7q42r5",
+  "propertyId": "100255837",
+  "title": "Ready to use Office Space",
+  "propertyType": "Office Space",
+  "propertyUrl": "https://housing.com/commercial/buy/resale/100255837-ready-to-use-office-space-for-sale-in-lower-parel-mumbai-for-rs-100000000",
+  "configurations": "1700 square_feet builtup area",
+  "price": {
+    "range": "₹10.0 Cr",
+    "minValue": 100000000
+  },
+  "location": {
+    "city": "Mumbai",
+    "locality": "Lower Parel",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": "18.997834",
+      "longitude": "72.828219"
+    }
+  },
+  "area": {
+    "minArea": null,
+    "maxArea": null,
+    "areaUnit": null
+  },
+  "possession": {
+    "status": "Ready to move"
+  },
+  "developer": {},
+  "amenities": [
+    null
+  ],
+  "images": [
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/0c379d1ab6394af7b618f0016cb70594/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/127a362c26c06d6a52d51280654a4f89/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/2551975af3a3ef79dd5052f3acf8eada/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/30c9630e17282c2cb92304cff96eef9e/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/35d7c4274be4504e687e4a66358d0c42/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/3c2c87d4082432f44123de0e3201462e/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/4f67ab7b29bb2bc93bcfd751abdc711b/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/5465428bb97d3285258a36ac884be2bc/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/650c960823a13c2aa8432b3612724330/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/6db775b57f7657279d0427c5bf525cd6/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/81eab181d01c9964250eac7de905ffbd/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/94840d826f249ecd9995ee6a3a1940ef/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/9dece96c36ba3fe0d6ee31acf248d577/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/ab2db9f23760c8d7d4a94f56f2b88a08/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/c0ba7cc2118a2aa84e87f31b813f20b3/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/c3ae9184348cb8264a84ba54f2fb5bb4/v0/version.jpg",
+      "caption": "Others"
+    }
+  ],
+  "sellers": [
+    {
+      "name": "Property Zone",
+      "type": "Seller",
+      "phone": "******2796"
+    }
+  ],
+  "lastUpdated": "2024-02-24T13:11:38.574Z",
+  "description": "Available for sale is a commercial space situated at Lower Parel, a well-known neighbourhood in Mumbai. The property’s age is 1 years  . It is a well-maintained property having a carpet area of 1542.0 square feet and a built-up area of 1700.0 square feet. Facilities provided within the property include Central Air Conditioning and 3 private, 5 public parking. The property also has CCTV Surveillance, Water Storage and Power Backup. There is provision for lifts including 4 passenger, 2 service lifts . It is available for a price of 10.0 Cr."
+},
+{
+  "searchUrl": "https://housing.com/commercial/buy/commercial-property-for-sale-in-mumbai-Pskwz0ocdh7q42r5",
+  "propertyId": "100321963",
+  "title": "Shop",
+  "propertyType": "Shop",
+  "propertyUrl": "https://housing.com/commercial/buy/resale/100321963-shop-for-sale-in-dahisar-west-mumbai-for-rs-44700000",
+  "configurations": "745 square_feet builtup area",
+  "price": {
+    "range": "₹4.47 Cr",
+    "minValue": 44700000
+  },
+  "location": {
+    "city": "Mumbai",
+    "locality": "Dahisar West",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": "19.25584",
+      "longitude": "72.85297"
+    }
+  },
+  "area": {
+    "minArea": null,
+    "maxArea": null,
+    "areaUnit": null
+  },
+  "possession": {
+    "status": "Ready to move"
+  },
+  "developer": {},
+  "amenities": [
+    null
+  ],
+  "images": [
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/4d430884594234ba4c449e1c02996612/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/759d6559142d900eb33b6bd172bb437a/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/c503ea1e7f7f9ec5eb7b92b562b05762/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/ccc5b03a82727d55f0962f3f201a4630/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/ee6c73a1a9481b97667259d766d01708/v0/version.jpg",
+      "caption": "Others"
+    }
+  ],
+  "sellers": [
+    {
+      "name": "Hilton Realtors",
+      "type": "Seller",
+      "phone": "******1771"
+    }
+  ],
+  "lastUpdated": "2024-09-23T12:43:03.528Z",
+  "description": "This modern Shop designed with luxury facilities in the heart of Mumbai at Dahisar West is an ideal investment option. It has a carpet area of 745.0 square feet. Built as per high-quality construction standards, the property provides facilities such as Water Storage. The features also include ceiling height of 10.0 feet and entrance width of 18.0 feet. Parking space has been provided including 1 public parking. The premium commercial space is located near entrance. The property is suitable for gym for and available for a price of 4.47 Cr. The age of the property is 18 years. Contact us for more information."
+},
+{
+  "searchUrl": "https://housing.com/commercial/buy/commercial-property-for-sale-in-mumbai-Pskwz0ocdh7q42r5",
+  "propertyId": "100365136",
+  "title": "Ready to use Office Space",
+  "propertyType": "Office Space",
+  "propertyUrl": "https://housing.com/commercial/buy/resale/100365136-ready-to-use-office-space-for-sale-in-andheri-west-mumbai-for-rs-5000000",
+  "configurations": "175 square_feet builtup area",
+  "price": {
+    "range": "₹50.0 L",
+    "minValue": 5000000
+  },
+  "location": {
+    "city": "Mumbai",
+    "locality": "Andheri West",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": "19.123637",
+      "longitude": "72.830463"
+    }
+  },
+  "area": {
+    "minArea": null,
+    "maxArea": null,
+    "areaUnit": null
+  },
+  "possession": {
+    "status": "Ready to move"
+  },
+  "developer": {},
+  "amenities": [
+    null
+  ],
+  "images": [
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/083f7f9282df8dd772ba9af7a2877b9f/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/1b43ac21e5dad1194cdc4f85684d557d/v0/version.jpg",
+      "caption": "Others"
+    }
+  ],
+  "sellers": [
+    {
+      "name": "Mannoj Batra",
+      "type": "Seller",
+      "phone": "******4912"
+    }
+  ],
+  "lastUpdated": "2025-12-21T07:13:37.356Z",
+  "description": "Available for sale is a commercial space situated at Andheri West, a well-known neighbourhood in Mumbai. The property’s age is 0 years  . It is a well-maintained property having a carpet area of 136.0 square feet and a built-up area of 175.0 square feet. Facilities provided within the property include 1 public parking. The property also has CCTV Surveillance, Water Storage . There is provision for lifts including 2 passenger, 1 service lifts and 2 staircases. It is available for a price of 50.0 L."
+},
+{
+  "searchUrl": "https://housing.com/commercial/buy/commercial-property-for-sale-in-mumbai-Pskwz0ocdh7q42r5",
+  "propertyId": "100377588",
+  "title": "Ready to use Office Space",
+  "propertyType": "Office Space",
+  "propertyUrl": "https://housing.com/commercial/buy/resale/100377588-ready-to-use-office-space-for-sale-in-andheri-west-mumbai-for-rs-8000000",
+  "configurations": "250 square_feet builtup area",
+  "price": {
+    "range": "₹80.0 L",
+    "minValue": 8000000
+  },
+  "location": {
+    "city": "Mumbai",
+    "locality": "Andheri West",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": "19.138051",
+      "longitude": "72.825327"
+    }
+  },
+  "area": {
+    "minArea": null,
+    "maxArea": null,
+    "areaUnit": null
+  },
+  "possession": {
+    "status": "Ready to move"
+  },
+  "developer": {},
+  "amenities": [
+    null
+  ],
+  "images": [
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/36369d63b09d6699a3ec159edd9194ac/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/3b066c14c6c0a7971a8858f2283dfc68/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/443113ab18d8127abef8ee4120f66b9c/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/d9938459a8fd702073514e1db29d5e43/v0/version.jpg",
+      "caption": "Others"
+    }
+  ],
+  "sellers": [
+    {
+      "name": "KWICK PROPERTY CONSULTANTS",
+      "type": "Seller",
+      "phone": "******0400"
+    }
+  ],
+  "lastUpdated": "2025-03-01T11:55:06.052Z",
+  "description": "Are you looking for a suitable office space for your business? Check this property located in Mumbai. It is nestled in the heart of Mumbai at Andheri West. The property is equipped with modern-day facilities such as lifts including 7 passenger, 1 service lifts . The number of staircases within the property is 4. There are new-age facilities such as Cafeteria/Food court. There is provision for Fire Extinguishers, Fire Sensors . Additionally, there is a facility for Power Backup . It provides a secure environment with CCTV Surveillance system. A vastu compliant property, the commercial space has a carpet area of 170.0 square feet and a built-up area of 250.0 square feet. It is available at a price of 80.0 L. Please call for more details. "
+},
+{
+  "searchUrl": "https://housing.com/commercial/buy/commercial-property-for-sale-in-mumbai-Pskwz0ocdh7q42r5",
+  "propertyId": "100488891",
+  "title": "Ready to use Office Space",
+  "propertyType": "Office Space",
+  "propertyUrl": "https://housing.com/commercial/buy/resale/100488891-ready-to-use-office-space-for-sale-in-ghatkopar-west-mumbai-for-rs-7200000",
+  "configurations": "350 square_feet builtup area",
+  "price": {
+    "range": "₹72.0 L",
+    "minValue": 7200000
+  },
+  "location": {
+    "city": "Mumbai",
+    "locality": "Ghatkopar West",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": "19.091315",
+      "longitude": "72.904991"
+    }
+  },
+  "area": {
+    "minArea": null,
+    "maxArea": null,
+    "areaUnit": null
+  },
+  "possession": {
+    "status": "Ready to move"
+  },
+  "developer": {},
+  "amenities": [
+    null
+  ],
+  "images": [
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/317daaa8e07358cd9da4ec28bd168553/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/bd4e33bfb7fc698848e5700c03620b8b/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/f3ea40614304858a2da4cad5439bb5f6/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/ff14054d3aa873e69cf93681a2e79fef/v0/version.jpg",
+      "caption": "Others"
+    }
+  ],
+  "sellers": [
+    {
+      "name": "HOUSELINK PROPERTIES",
+      "type": "Seller",
+      "phone": "******8896"
+    }
+  ],
+  "lastUpdated": "2025-11-07T17:39:56.261Z",
+  "description": "Available for sale is a commercial space situated at Ghatkopar West, a well-known neighbourhood in Mumbai. The property’s age is 0 years  . It is a well-maintained property having a carpet area of 203.0 square feet and a built-up area of 350.0 square feet. Facilities provided within the property include 1 private parking. The property also has Power Backup. There is provision for lifts including 1 passenger, 1 service lifts . It is available for a price of 72.0 L."
+},
+{
+  "searchUrl": "https://housing.com/commercial/buy/commercial-property-for-sale-in-mumbai-Pskwz0ocdh7q42r5",
+  "propertyId": "100506385",
+  "title": "Bare shell Office Space",
+  "propertyType": "Office Space",
+  "propertyUrl": "https://housing.com/commercial/buy/resale/100506385-bare-shell-office-space-for-sale-in-borivali-east-mumbai-for-rs-27000000",
+  "configurations": "1100 square_feet builtup area",
+  "price": {
+    "range": "₹2.7 Cr",
+    "minValue": 27000000
+  },
+  "location": {
+    "city": "Mumbai",
+    "locality": "Borivali East",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": "19.226417",
+      "longitude": "72.864973"
+    }
+  },
+  "area": {
+    "minArea": null,
+    "maxArea": null,
+    "areaUnit": null
+  },
+  "possession": {
+    "status": "Under Construction"
+  },
+  "developer": {},
+  "amenities": [
+    null
+  ],
+  "images": [
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/0ed76c653abe4f2a778910cc50b17640/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/6705147c4cb0b25f69b27276272c6f96/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/8023330d518de56909dbd6747f295609/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/dbcee62219095bd81c3f3231a2678b6e/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/f844dd65c735ead15e753f9a80b09759/v0/version.jpg",
+      "caption": "Others"
+    }
+  ],
+  "sellers": [
+    {
+      "name": "starhomerealty",
+      "type": "Seller",
+      "phone": "******4672"
+    }
+  ],
+  "lastUpdated": "2025-12-15T15:12:24.973Z",
+  "description": "Available for sale is a commercial space situated at Borivali East, a well-known neighbourhood in Mumbai . It is a well-maintained property having a built-up area of 1100.0 square feet. Facilities provided within the property include Central Air Conditioning and 1 private, 20 public parking. The property also has CCTV Surveillance, Water Storage and Power Backup. There is provision for lifts including 3 passenger, 1 service lifts and 1 staircases. It is available for a price of 2.7 Cr."
+},
+{
+  "searchUrl": "https://housing.com/commercial/buy/commercial-property-for-sale-in-mumbai-Pskwz0ocdh7q42r5",
+  "propertyId": "100507373",
+  "title": "Bare shell Office Space",
+  "propertyType": "Office Space",
+  "propertyUrl": "https://housing.com/commercial/buy/resale/100507373-bare-shell-office-space-for-sale-in-borivali-west-1-mumbai-for-rs-20100000",
+  "configurations": "700 square_feet builtup area",
+  "price": {
+    "range": "₹2.01 Cr",
+    "minValue": 20100000
+  },
+  "location": {
+    "city": "Mumbai",
+    "locality": "Borivali West",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": "19.233202",
+      "longitude": "72.841585"
+    }
+  },
+  "area": {
+    "minArea": null,
+    "maxArea": null,
+    "areaUnit": null
+  },
+  "possession": {
+    "status": "Under Construction"
+  },
+  "developer": {},
+  "amenities": [
+    null
+  ],
+  "images": [
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/140fbc1c06bddfce5ebbf43471df8e0e/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/6705147c4cb0b25f69b27276272c6f96/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/8023330d518de56909dbd6747f295609/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/dbcee62219095bd81c3f3231a2678b6e/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/f844dd65c735ead15e753f9a80b09759/v0/version.jpg",
+      "caption": "Others"
+    }
+  ],
+  "sellers": [
+    {
+      "name": "starhomerealty",
+      "type": "Seller",
+      "phone": "******4672"
+    }
+  ],
+  "lastUpdated": "2025-12-26T16:24:17.281Z",
+  "description": "Are you looking for a suitable office space for your business? Check this property located in Mumbai. It is nestled in the heart of Mumbai at Borivali West. The property is equipped with modern-day facilities such as lifts including 4 passenger, 1 service lifts and parking space including 1 private, 20 public parking. The number of staircases within the property is 1. There are new-age facilities such as Cafeteria/Food court. It also includes facilities like Central Air Conditioning and Oxygen Duct. There is provision for Fire Extinguishers, Fire Sensors . Additionally, there is a facility for Power Backup and DG Availability. It provides a secure environment with CCTV Surveillance system. A vastu compliant property, the commercial space has a built-up area of 700.0 square feet. It is available at a price of 2.01 Cr. Please call for more details. "
+},
+{
+  "searchUrl": "https://housing.com/commercial/buy/commercial-property-for-sale-in-mumbai-Pskwz0ocdh7q42r5",
+  "propertyId": "100509773",
+  "title": "Bare shell Office Space",
+  "propertyType": "Office Space",
+  "propertyUrl": "https://housing.com/commercial/buy/resale/100509773-bare-shell-office-space-for-sale-in-andheri-west-mumbai-for-rs-22500000",
+  "configurations": "850 square_feet builtup area",
+  "price": {
+    "range": "₹2.25 Cr",
+    "minValue": 22500000
+  },
+  "location": {
+    "city": "Mumbai",
+    "locality": "Andheri West",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": "19.138051",
+      "longitude": "72.825327"
+    }
+  },
+  "area": {
+    "minArea": null,
+    "maxArea": null,
+    "areaUnit": null
+  },
+  "possession": {
+    "status": "Ready to move"
+  },
+  "developer": {},
+  "amenities": [
+    null
+  ],
+  "images": [
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/051c29f4c2e53f674debaf71f042489d/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/1b51eed1c946e029dd6bea83f939a2df/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/50ad8b23662fefc2de89917f4a76852e/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/64dab5f502a610066364e33eb693eb45/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/a02ad9ae799005df25142dcbcb623a57/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/ac88c99aaecfd3785c7c153247813e24/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/b2c22b2c6ddbd9d2d0ee536c13bb3ffe/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/e280f58ab6fbca93dfeb5b64ffc1b79a/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-2.housingcdn.com/354cef8f/eb4a432c120269320cbd1381ad551887/v0/version.jpg",
+      "caption": "Others"
+    }
+  ],
+  "sellers": [
+    {
+      "name": "Premier Estates",
+      "type": "Seller",
+      "phone": "******6369"
+    }
+  ],
+  "lastUpdated": "2025-12-23T12:14:49.634Z",
+  "description": "Available for sale is a commercial space situated at Andheri West, a well-known neighbourhood in Mumbai. The property’s age is 10 years  . It is a well-maintained property having a built-up area of 850.0 square feet. Facilities provided within the property include 1 private parking. The property also has Power Backup. There is provision for lifts including 1 passenger, 1 service lifts and 1 staircases. It is available for a price of 2.25 Cr."
+},
+{
+  "searchUrl": "https://housing.com/commercial/buy/commercial-property-for-sale-in-mumbai-Pskwz0ocdh7q42r5",
+  "propertyId": "100514735",
+  "title": "Shop",
+  "propertyType": "Shop",
+  "propertyUrl": "https://housing.com/commercial/buy/resale/100514735-shop-for-sale-in-malad-east-mumbai-for-rs-13000000",
+  "configurations": "300 square_feet builtup area",
+  "price": {
+    "range": "₹1.3 Cr",
+    "minValue": 13000000
+  },
+  "location": {
+    "city": "Mumbai",
+    "locality": "Malad East",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": "19.182388",
+      "longitude": "72.864086"
+    }
+  },
+  "area": {
+    "minArea": null,
+    "maxArea": null,
+    "areaUnit": null
+  },
+  "possession": {
+    "status": "Ready to move"
+  },
+  "developer": {},
+  "amenities": [
+    null
+  ],
+  "images": [
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/765a0b494562575ecb6258a73125091e/v0/version.jpg",
+      "caption": "Others"
+    },
+    {
+      "url": "https://is1-3.housingcdn.com/354cef8f/e5a072afcef1fa72a65642d519639ac0/v0/version.jpg",
+      "caption": "Others"
+    }
+  ],
+  "sellers": [
+    {
+      "name": "varun narsaria",
+      "type": "Seller",
+      "phone": "******3738"
+    }
+  ],
+  "lastUpdated": "2026-01-05T12:45:35.610Z",
+  "description": "A ready to move commercial Shop is available for sale in Malad East of Mumbai. It is a  commercial space with a carpet area of 220.0 square feet. It is equipped with contemporary facilities such as Internet Connectivity. The facilities also include Water Storage . Built near entrance, the Shop space has a ceiling height 10.0 feet and entrance width of 10.0 feet. It includes 1 private washrooms. There is provision for parking including 1 public parking. The property is suitable for grocery and has a price of 1.3 Cr."
+}]
