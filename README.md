@@ -305,17 +305,6 @@ The seed script auto-detects and imports your JSON file.
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Support
-
-For support, email [neha_chinnam@srmap.edu.in](mailto:neha_chinnam@srmap.edu.in) or open an issue in this repository.
-
----
 
 ## 🙏 Acknowledgments
 
